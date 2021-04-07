@@ -7,8 +7,16 @@ DataMining
 
 wine-reviews:<https://www.kaggle.com/zynicide/wine-reviews>
 
-code in Untitled.ipynb
+code in Untitled1.ipynb
 
 chicago-building-violations:<https://www.kaggle.com/chicago/chicago-building-violations>
 
-code in Untitled1.ipynb
+code in Untitled.ipynb
+
+环境：
+python=3.5
+scikit-learn=0.20.0
+scipy=1.1.0
+pandas=0.23.4
+matplotlib=3.0.0
+tqdm=4.59.0
